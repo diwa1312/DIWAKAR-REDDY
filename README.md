@@ -1,17 +1,15 @@
-# DIWAKAR-REDDY
-8919601181  pavandiwa@gmail.com
 # CAREER OBJECTIVE
 Seeking for the challenging environment that promotes to learn and implement new skills and technologies for solving obstacles and stimulates personal and professional growth along with the organization.
    
 # EDUCATION
-Sree Vidyanikethan Engineering college              2020<br /> 
-Bachelor of Technology		                          GPA : 8.13<br />
+ **Sree Vidyanikethan Engineering college**   &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;           2020<br /> 
+Bachelor of Technology&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp; &nbsp;     GPA : 8.13<br />
 ECE<br />
-Sri chaitanya junior college	                      2016<br />
-Intermediate	                                      Percentage : 97.3<br />
+**Sri chaitanya junior college**&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;                 2016<br />
+Intermediate	                                &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp;  Percentage : 97.3<br />
 MPC<br />
-Vailankanni Matha Vidyalaya School	                2014<br />
-SSC	                                                GPA : 9.5<br />
+**Vailankanni Matha Vidyalaya School**&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;   &nbsp;    	        2014<br />
+SSC&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp;                                           GPA : 9.5<br />
 
 # AWARDS AND ACHIEVEMENTS
 
@@ -35,7 +33,7 @@ SSC	                                                GPA : 9.5<br />
    * **Application**: If pilots are feeling any stress because of any cause then it will automatically intimate his response to control room.?
   * **Automatic street light control using LDR sensor**
     * **Application**:To control street light without involvement man power and also to reduce the man power.
-    * Received a certificate of completing the mini project in Arduino entitled street light control using LDR sensor.???????????????
+    * Received a certificate of completing the mini project in Arduino entitled street light control using LDR sensor.
 * **Digital counter using IR sensor**
   * **Application**: To count the number of students present in a classroom.
    * Received a certificate of completing the mini project in Arduino entitled Digital counter using IR sensor from Uniq technologies.
@@ -58,9 +56,10 @@ SSC	                                                GPA : 9.5<br />
 * Playing outdoor games
 * Cricket
 * Basketball
+* Volleyball
 
 # DECLARATION:
 I hereby declare that the above-furnished information is correct as per my knowledge.
 
 Date:<br />
-place:Tirupati                                                                                                        D Diwakar Reddy
+place:Tirupati&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;    &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;    &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;    &nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;    	                                                                      D Diwakar Reddy
