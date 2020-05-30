@@ -20,6 +20,7 @@ SSC&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &n
 * Certificate of Training in Programming with Python course offered by Internshala.
 * Certificate of participation in Science Exhibition in a national level techno-cultural fest Mohana Mantra in college.
 * Certificate of participation in 104th Indian Science Congress held in Tirupati.
+
 # INTERNSHIPS
 
 * Certificate of completing an internship in Embedded application development offered by Uniq technologies.
@@ -37,8 +38,9 @@ SSC&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &n
 * **Digital counter using IR sensor**
   * **Application**: To count the number of students present in a classroom.
    * Received a certificate of completing the mini project in Arduino entitled Digital counter using IR sensor from Uniq technologies.
+   
+# TECHNICAL SKILLS
 
- # TECHNICAL SKILLS
 * C Language
 * Programming with Python
 * Microprocessor(8086) and Microcontroller
@@ -51,7 +53,7 @@ SSC&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &n
 * Organizer in Public Relations panel for the college cultural fest.
 *  Worked as Committee Head for the college cultural fest.
 
- # INTERESTS
+# INTERESTS
 
 * Playing outdoor games
 * Cricket
@@ -59,6 +61,7 @@ SSC&nbsp; &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &n
 * Volleyball
 
 # DECLARATION:
+
 I hereby declare that the above-furnished information is correct as per my knowledge.
 
 Date:<br />
